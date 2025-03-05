@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/federico/Universidad/cv/finger_counter/esp_folder/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
